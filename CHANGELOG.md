@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/fernandomendieta-facephi/tagging-versioning/compare/v1.0.1...v1.1.0) (2025-07-22)
+
+
+### Features
+
+* delete verison txt ([b6d1404](https://github.com/fernandomendieta-facephi/tagging-versioning/commit/b6d1404f8c76295fcf2d3151c03b724c08ce9142))
+* new files and delete unnecesary thing ([6e87f39](https://github.com/fernandomendieta-facephi/tagging-versioning/commit/6e87f39a06bc7d7ae583ac154f7c06202d11e544))
+
+
+### Bug Fixes
+
+* small bug improvemnt ([5c96d94](https://github.com/fernandomendieta-facephi/tagging-versioning/commit/5c96d945417d9609b03c05d425aeba7504b92ab8))
+
 ## [1.0.1](https://github.com/fernandomendieta-facephi/tagging-versioning/compare/v1.0.0...v1.0.1) (2025-07-22)
 
 
