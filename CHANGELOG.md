@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/fernandomendieta-facephi/tagging-versioning/compare/v1.1.0...v2.0.0) (2025-07-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change
+
+### Code Refactoring
+
+* breaking change ([c6f20b2](https://github.com/fernandomendieta-facephi/tagging-versioning/commit/c6f20b28dc0e2be70f56de11a74c014b19bc3fe8))
+
 ## [1.1.0](https://github.com/fernandomendieta-facephi/tagging-versioning/compare/v1.0.1...v1.1.0) (2025-07-22)
 
 
